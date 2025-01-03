@@ -1,6 +1,6 @@
 # 100DaysOfDP
 
-A journey to master Dynamic Programming (DP) by solving problems daily for 100 days. This repository documents solutions, explanations, and learning resources for each problem tackled during the challenge.
+A journey to master Dynamic Programming (DP) by solving #LEETCODE problems daily for 100 days. This repository documents solutions, explanations, and learning resources for each problem tackled during the challenge.
 
 ---
 
