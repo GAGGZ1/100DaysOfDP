@@ -1,3 +1,4 @@
+// Day 7
 class Solution {
     public int countGoodStrings(int low, int high, int zero, int one) {
         int maxLen = high + Math.max(zero,one);
