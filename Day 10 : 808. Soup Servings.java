@@ -1,4 +1,4 @@
-class Solution {
+class Solution { 
     double memo[][];
     public double soupServings(int n) {
         if(n>5000){
