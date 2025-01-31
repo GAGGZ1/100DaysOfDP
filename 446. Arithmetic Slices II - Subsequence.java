@@ -6,7 +6,7 @@ public class Solution {
 
         for (int i = 0; i < n; i++) {
             mp.add(new HashMap<>());
-            for (int j = 0; j < i; j++) {
+            for (int j = 0; j < i; j++) { 
                 long diff = (long) nums[i] - nums[j];
                 int count_at_j = mp.get(j).getOrDefault(diff, 0);
 
