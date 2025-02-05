@@ -1,6 +1,6 @@
 class Solution {
     int[] dp = new int[1001];
-    int m = 1000000007;
+    int m = 1000000007; 
 
     public Solution() {
         for (int i = 0; i < dp.length; i++) {
