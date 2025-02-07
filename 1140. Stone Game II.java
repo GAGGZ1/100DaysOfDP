@@ -6,7 +6,7 @@ class Solution {
         if (i >= n) {
             return 0;
         }
-
+ 
         if (dp[person][i][M] != -1) {
             return dp[person][i][M];
         }
