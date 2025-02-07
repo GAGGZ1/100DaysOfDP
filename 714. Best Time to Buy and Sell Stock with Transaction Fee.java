@@ -6,7 +6,7 @@ class Solution {
         this.dp = new HashMap<>();
         this.fee = fee;
         return dfs(prices, 0, true);
-    }
+    } 
 
     private int dfs(int[] prices, int i, boolean buying) {
         if (i >= prices.length) {
